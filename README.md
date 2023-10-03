@@ -2,10 +2,13 @@
 
 I'm a software developer with a passion for creating web and mobile applications. Here's a little bit about me:
 
-🌐 **Known Programming Languages**: JavaScript, CSS, Java
-🚀 **Currently working on**: Exciting web projects
-🌱 **Learning**: New technologies and frameworks
-🎯 **Goal-oriented**: Always looking for opportunities to grow
+-🌐 **Known Programming Languages**: JavaScript, CSS, Java
+
+-🚀 **Currently working on**: Exciting web projects
+
+-🌱 **Learning**: New technologies and frameworks
+
+-🎯 **Goal-oriented**: Always looking for opportunities to grow
 
 ## Contact
 
